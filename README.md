@@ -1,7 +1,7 @@
 # Blog_Website
 
-1. A simple blog website created using HTML,CSS and Express.
-2. Used EJS for efficient rendering of pages.
-3. You can compose your own blogs and add it.
+1. I have constructed a straightforward blog website using HTML, CSS, and Express.
+2. Efficient page rendering is facilitated through the use of EJS.
+3. Users have the freedom to compose and add their own blogs to the website.
 
-Access the Website at 
+Explore and contribute to the website at 
